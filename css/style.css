@@ -183,7 +183,9 @@ body {
   color: white;
   text-transform: uppercase;
   border-radius: 10px;
-  margin-top: 25px;
+  position: relative;
+  top: 25px;
+
 }
 /*End landing1*/
 /*Start services*/
